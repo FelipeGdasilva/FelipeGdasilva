@@ -3,6 +3,13 @@
 
 Sou formado em gestão tecnico da informação pelo cruzeiro do sul em são paulo, Estou estudando várias tecnologias, incluindo HTML5, CSS, JavaScript, git, github. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e habilidades.
 
+
+
+
+![](https://github.com/FelipeGdasilva/FelipeGdasilva/blob/main/pixel-art-8bit-city-objgw22cel46yk7h.gif)
+
+
+
 <div>
   <a href="https://github.com/FelipeGdasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
