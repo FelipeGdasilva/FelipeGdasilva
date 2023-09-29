@@ -25,13 +25,5 @@ Sou formado em gestão tecnico da informação pelo cruzeiro do sul em são paul
  <br>
  
   <a href="https://www.linkedin.com/in/felipe-gomes-da-silva-a7a252263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-
-  ![Snake animation](https://github.com/FelipeGdasilva/FelipeGdasilva/blob/output/github-contribution-grid-snake.svg)
-  
-
-
-
-  
+ 
 </div>
