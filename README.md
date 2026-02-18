@@ -27,7 +27,7 @@ Interface interativa inspirada em seleção de personagens de jogos, desenvolvid
 ### 🍄 Super Mario
 Projeto front-end inspirado no universo Mario, focado em layout e interatividade.
 
-🔗 **Repositório:** https://github.com/FelipeGdasilva/projeto-Mario
+🔗 **Repositório:** https://github.com/FelipeGdasilva/Projero-Mario
 
 ---
 
