@@ -31,8 +31,8 @@ Projeto front-end inspirado no universo Mario, focado em layout e interatividade
 
 ---
 
-## 🌐 Portfólio
-🔗 https://github.com/FelipeGdasilva/Portf-flio
+## 🌐 Portfólio 
+https://github.com/FelipeGdasilva/portfolio
 
 ---
 
