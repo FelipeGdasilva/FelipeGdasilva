@@ -20,7 +20,7 @@ Atualmente estou em **transição para Fullstack**, sempre desenvolvendo projeto
 ### 🤖 Henshin.AI (Anteriormente AnimeBot)
 Projeto Fullstack que utiliza Inteligência Artificial e n8n para recomendar animes baseados no humor do usuário. Resolvi desafios de entrada de dados rígidos usando Engenharia de Prompt para tornar o fluxo resiliente.
 
-🔗 **Repositório:** https://github.com/FelipeGdasilva/AnimeBot-AI
+🔗 **Repositório:** https://felipegdasilva.github.io/Henshin.AI/
 
 ---
 
