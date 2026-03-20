@@ -17,15 +17,15 @@ Atualmente estou em **transição para Fullstack**, sempre desenvolvendo projeto
 
 ## 🧩 Projetos em Destaque
 
-### 🤖 AnimeBot AI - Recomendador por Emoção
-Projeto Fullstack que utiliza Inteligência Artificial e n8n para recomendar animes baseados no humor do usuário. Resolvi desafios de entrada de dados rígidos usando Engenharia de Prompt para tornar o fluxo resiliente. [cite: 2026-02-15]
+### 🤖 Henshin.AI (Anteriormente AnimeBot)
+Projeto Fullstack que utiliza Inteligência Artificial e n8n para recomendar animes baseados no humor do usuário. Resolvi desafios de entrada de dados rígidos usando Engenharia de Prompt para tornar o fluxo resiliente.
 
 🔗 **Repositório:** https://github.com/FelipeGdasilva/AnimeBot-AI
 
 ---
 
 ### 🎮 Sonic Battle Universe
-Interface interativa inspirada em seleção de personagens de jogos, desenvolvida em React. [cite: 2026-01-20]
+Interface interativa inspirada em seleção de personagens de jogos, desenvolvida em React.
 
 🔗 **Deploy:** https://felipegdasilva.github.io/Sonic-Battle-Universe/  
 💻 **Repositório:** https://github.com/FelipeGdasilva/Sonic-Battle-Universe
