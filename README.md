@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou o Felipe Gomes
+<div align="center">
+  <img src="Hina.png" alt="Hina do Henshin.AI estudando" width="600" style="border-radius: 10px;">
+ 
+  # 👋 Olá, eu sou o Felipe Gomes
 
 Sou **Desenvolvedor Front-end Júnior**, com foco em **JavaScript, React, HTML5 e CSS3**.  
 Atualmente estou em **transição para Fullstack**, sempre desenvolvendo projetos práticos para evoluir minhas habilidades.
