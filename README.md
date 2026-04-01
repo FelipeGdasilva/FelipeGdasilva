@@ -1,5 +1,7 @@
 <div align="center">
   <img src="Hina.png" alt="Hina do Henshin.AI estudando" width="600" style="border-radius: 10px;">
+
+  <sub><i>Esta é a Hina, mascote oficial do projeto Henshin.AI, atualmente em desenvolvimento.</i></sub>
  
   # 👋 Olá, eu sou o Felipe Gomes
 
