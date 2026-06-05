@@ -65,16 +65,13 @@ Experiência interativa de seleção de personagens inspirada em games. Atualmen
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Card de Contribuições Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Felipe" />
-  
-  <!-- Card de Sequência de Commits (Streak) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeGdasilva&theme=dark&hide_border=true" alt="Sequência de Commits de Felipe" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeGdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="100%" alt="Estatísticas do GitHub" />
 </div>
+
 
 
 ---
 
 ## 📫 Contato
 * **LinkedIn:** [linkedin.com/in/felipe-gomes-silva-dev](https://www.linkedin.com/in/felipe-gomes-silva-dev/)
-* **E-mail:** [https://github.com/FelipeGdasilva]
+* **E-mail:** https://github.com/FelipeGdasilva
