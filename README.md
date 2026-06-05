@@ -73,4 +73,4 @@ Experiência interativa de seleção de personagens inspirada em games. Atualmen
 
 ## 📫 Contato
 * **LinkedIn:** [linkedin.com/in/felipe-gomes-silva-dev](https://www.linkedin.com/in/felipe-gomes-silva-dev/)
-* **E-mail:** [Seu E-mail Aqui]
+* **E-mail:** [https://github.com/FelipeGdasilva]
