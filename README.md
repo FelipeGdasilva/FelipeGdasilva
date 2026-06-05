@@ -62,11 +62,15 @@ Experiência interativa de seleção de personagens inspirada em games. Atualmen
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Métricas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeGdasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="100%" alt="Estatísticas do GitHub" />
-</div>
+| Métrica | Status |
+| :--- | :--- |
+| **Contribuições Gerais** | ![GitHub Commits](https://img.shields.io/github/commits-per-year/FelipeGdasilva/portfolio?style=flat-sounding&color=green&label=Commits%20Recentes) |
+| **Status do Perfil** | ![Ativo](https://img.shields.io/badge/Status-Ativo%20%2F%20Estudando-blue) |
+| **Ecossistema** | ![Fullstack](https://img.shields.io/badge/Stack-JavaScript%20%2F%20Node%20%2F%20React-orange) |
+
+> 💡 *Para ver o histórico completo de commits, gráficos de linguagens e repositórios em tempo real, clique na aba **Repositories** ou acesse meu perfil pelo computador!*
 
 
 
