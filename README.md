@@ -66,7 +66,7 @@ Experiência interativa de seleção de personagens inspirada em games. Atualmen
 
 | Métrica | Status |
 | :--- | :--- |
-| **Contribuições Gerais** | ![GitHub Commits](https://img.shields.io/github/commits-per-year/FelipeGdasilva/portfolio?style=flat-sounding&color=green&label=Commits%20Recentes) |
+| **Contribuições Gerais** | 🚀 Confira minhas atividades no gráfico principal acima! |
 | **Status do Perfil** | ![Ativo](https://img.shields.io/badge/Status-Ativo%20%2F%20Estudando-blue) |
 | **Ecossistema** | ![Fullstack](https://img.shields.io/badge/Stack-JavaScript%20%2F%20Node%20%2F%20React-orange) |
 
