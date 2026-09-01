@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Hina.png" alt="Hina do Henshin.AI estudando" width="600" style="border-radius: 10px;">
   <br>
-  <sub><i>Esta é a Hina, mascote oficial do projeto Henshin.AI e representante da Hina Arena.</i></sub>
+  <sub><i>Esta é a Hina, minha assistente virtual pessoal e mascote oficial dos projetos Henshin.AI e Hina Arena.</i></sub>
  
   # 👋 Olá, eu sou o Felipe Gomes
 
@@ -55,7 +55,7 @@ Projeto Fullstack que utiliza Inteligência Artificial e n8n para recomendar ani
 ---
 
 ### 🎮 Sonic Battle Universe
-Experiência interativa de seleção de personagens inspirada em games. Atualmente sendo migrada para Next.js e Tailwind para otimização de performance.
+Aplicação interativa de seleção de personagens refatorada e construída com **Next.js**, **TypeScript** e **Tailwind CSS**. Possui suporte a internacionalização (i18n), acessibilidade completa por teclado (a11y) e interface responsiva otimizada.
 
 * 🚀 **Deploy:** [felipegdasilva.github.io/Sonic-Battle-Universe/](https://felipegdasilva.github.io/Sonic-Battle-Universe/)
 * 💻 **Repositório:** [github.com/FelipeGdasilva/Sonic-Battle-Universe](https://github.com/FelipeGdasilva/Sonic-Battle-Universe)
@@ -72,10 +72,7 @@ Experiência interativa de seleção de personagens inspirada em games. Atualmen
 
 > 💡 *Para ver o histórico completo de commits, gráficos de linguagens e repositórios em tempo real, clique na aba **Repositories** ou acesse meu perfil pelo computador!*
 
-
-
 ---
 
 ## 📫 Contato
-* **LinkedIn:** [linkedin.com/in/felipe-gomes-silva-dev](https://www.linkedin.com/in/felipe-gomes-silva-dev/)
-* **E-mail:** https://github.com/FelipeGdasilva
+* **LinkedIn:** https://www.linkedin.com/in/felipe-gomes-silva-dev/
