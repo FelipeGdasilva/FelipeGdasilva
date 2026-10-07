@@ -11,7 +11,7 @@
   ---
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gomes-silva-dev/)
-  [![GitHub Portfolio](https://img.shields.io/badge/Meu_Portfólio-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGdasilva/portfolio)
+  [![GitHub Portfolio](https://img.shields.io/badge/Meu_Portfólio-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGdasilva/portfolio-2.0)
 </div>
 
 ---
@@ -43,24 +43,31 @@
 ### 🏟️ Hina Arena (Landing Page)
 Interface de alta performance focada em conversão e experiência do usuário. Desenvolvida com foco em SEO, responsividade extrema e componentes reutilizáveis. Inclui um cronômetro de treino personalizado.
 
-* 💻 **Repositório:** [github.com/FelipeGdasilva/hina-landing-page](https://github.com/FelipeGdasilva/hina-landing-page)
+* 🚀 **Deploy:** https://hina-landing-page.vercel.app/
+* 💻 **Repositório:** https://github.com/FelipeGdasilva/hina-landing-page
 
 ---
-
 ### 🤖 Henshin.AI
-Projeto Fullstack que utiliza Inteligência Artificial e n8n para recomendar animes. Implementei fluxos resilientes usando IA para tratar variações de entrada de dados, garantindo que o workflow nunca quebre.
+Aplicação Fullstack reconstruída com **Next.js 15** e **TypeScript**. Analisa o sentimento do usuário em linguagem natural usando **Google Gemini 2.5** e consulta as recomendações de animes diretamente na **Kitsu API**, garantindo respostas dinâmicas e de alta performance.
 
-* 🚀 **Deploy:** [felipegdasilva.github.io/Henshin.AI/](https://felipegdasilva.github.io/Henshin.AI/)
-
+* 🚀 **Deploy:** https://henshin-ai-ten.vercel.app/
+* 💻 **Repositório:** https://felipegdasilva.github.io/Henshin.AI
 ---
 
 ### 🎮 Sonic Battle Universe
 Aplicação interativa de seleção de personagens refatorada e construída com **Next.js**, **TypeScript** e **Tailwind CSS**. Possui suporte a internacionalização (i18n), acessibilidade completa por teclado (a11y) e interface responsiva otimizada.
 
-* 🚀 **Deploy:** [felipegdasilva.github.io/Sonic-Battle-Universe/](https://felipegdasilva.github.io/Sonic-Battle-Universe/)
-* 💻 **Repositório:** [github.com/FelipeGdasilva/Sonic-Battle-Universe](https://github.com/FelipeGdasilva/Sonic-Battle-Universe)
+* 🚀 **Deploy:** https://sonic-battle-universe.vercel.app/
+* 💻 **Repositório:** https://github.com/FelipeGdasilva/Sonic-Battle-Universe
 
 ---
+
+### 🤖 Hina AI
+Assistente conversacional interativa e completa que se comunica em tempo real utilizando o **Gemini API SDK**. Possui renderização e tratamento dinâmico de **Markdown** para uma experiência de chat fluida e estruturada.
+
+* 🚀 **Deploy:** https://hina-assistente.vercel.app/
+* 💻 **Repositório:** https://github.com/FelipeGdasilva/Hina-AI
+  
 
 ## 📊 Estatísticas e Métricas
 
