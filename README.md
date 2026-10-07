@@ -67,7 +67,8 @@ Assistente conversacional interativa e completa que se comunica em tempo real ut
 
 * 🚀 **Deploy:** https://hina-assistente.vercel.app/
 * 💻 **Repositório:** https://github.com/FelipeGdasilva/hina-assistente
-  
+
+---
 
 ## 📊 Estatísticas e Métricas
 
