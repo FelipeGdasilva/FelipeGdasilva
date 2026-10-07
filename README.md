@@ -66,7 +66,7 @@ Aplicação interativa de seleção de personagens refatorada e construída com 
 Assistente conversacional interativa e completa que se comunica em tempo real utilizando o **Gemini API SDK**. Possui renderização e tratamento dinâmico de **Markdown** para uma experiência de chat fluida e estruturada.
 
 * 🚀 **Deploy:** https://hina-assistente.vercel.app/
-* 💻 **Repositório:** https://github.com/FelipeGdasilva/Hina-AI
+* 💻 **Repositório:** https://github.com/FelipeGdasilva/hina-assistente
   
 
 ## 📊 Estatísticas e Métricas
