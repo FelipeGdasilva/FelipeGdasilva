@@ -51,7 +51,7 @@ Interface de alta performance focada em conversão e experiência do usuário. D
 Aplicação Fullstack reconstruída com **Next.js 15** e **TypeScript**. Analisa o sentimento do usuário em linguagem natural usando **Google Gemini 2.5** e consulta as recomendações de animes diretamente na **Kitsu API**, garantindo respostas dinâmicas e de alta performance.
 
 * 🚀 **Deploy:** https://henshin-ai-ten.vercel.app/
-* 💻 **Repositório:** https://felipegdasilva.github.io/Henshin.AI
+* 💻 **Repositório:** https://github.com/FelipeGdasilva/Henshin.AI
 ---
 
 ### 🎮 Sonic Battle Universe
